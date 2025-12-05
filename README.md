@@ -1,3 +1,85 @@
+Skip to content
+Navigation Menu
+Sanjayyyy2024
+Electronic-Circuits--Full-Wave-Bridge-Rectifier
+
+Type / to search
+Code
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+Settings
+Electronic-Circuits--Full-Wave-Bridge-Rectifier
+/
+README.md
+in
+main
+
+Edit
+
+Preview
+Indent mode
+
+Spaces
+Indent size
+
+2
+Line wrap mode
+
+Soft wrap
+Editing README.md file contents
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
 # Electronic-Circuits--Full-Wave-Bridge-Rectifier
 
 ## AIM:
@@ -46,3 +128,7 @@ To simulate a Full wave Bridge rectifier circuit and compare the outputs with an
 ## OUTPUT:
 
 ## RESULT:
+
+Use Control + Shift + m to toggle the tab key moving focus. Alternatively, use esc then tab to move to the next interactive element on the page.
+No file chosen
+Attach files by dragging & dropping, selecting or pasting them.
